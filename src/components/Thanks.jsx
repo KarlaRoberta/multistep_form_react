@@ -7,4 +7,4 @@ const Thanks = () => {
   )
 }
 
-export default Thanks
+export default Thanks;
